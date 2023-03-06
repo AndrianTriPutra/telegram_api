@@ -1,15 +1,20 @@
-# telegram_api 
-
-## endpoint
-- /docker        
+# telegram_basic
 
 ## getting started
-- please switch to branch basic for started
-- change token and chatID
-- ENV=dev go run .
-- curl --location 'http://localhost:8008/docker' --form 'message="[START] Service Producer Audio Ads"'
-
-## deploy
-- make dev  : for development
-- make prod : for production
-- logs      : docker logs -f telegram_api
+- open app telegram
+- add @botfaher 
+- /start
+- /newbot
+- bot name (example: KakiBadak)
+- username (example: c4nte3nganbot)
+- copy token
+- go run . token
+- move to bot KakiBadak
+- send hai
+- create group (example:CulaSatu)
+- move to KakiBadak
+- add to group
+- add bot KakiBadak as admin
+- to group CulaSatu
+- send hai 
+- copy chatID for next step (api)
