@@ -13,3 +13,6 @@
 - make dev  : for development
 - make prod : for production
 - logs      : docker logs -f telegram_api
+
+## medium
+- https://andriantriputra.medium.com/golang-general-chapter-8-api-telegram-ef375675b4af
