@@ -15,6 +15,6 @@
 - move to KakiBadak
 - add to group
 - add bot KakiBadak as admin
-- to group CulaSatu
+- move to group CulaSatu
 - send hai 
 - copy chatID for next step (api)
