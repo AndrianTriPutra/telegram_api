@@ -1,0 +1,15 @@
+general:
+  core     : 2
+  log      : trace
+
+server:
+  port         : 8008
+  readTimeout  : 30
+  writeTimeout : 30
+  idleTimeout  : 30
+  jWTEXP       : 168
+
+telegram:
+  timezone : Asia/Jakarta
+  token    : 
+  chatid   : 
